@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+  <FacialAnimation.FaceAdjustmentDef>
+    <defName>Anneli_SizeAndPositionDef</defName>
+    <RaceName>Annelitrice</RaceName>
+    <Size>(1.05,1.05)</Size>    
+  </FacialAnimation.FaceAdjustmentDef>
+</Defs>
