@@ -4,12 +4,12 @@
 		<success>Always</success>
 		<operations>
 			<li Class="PatchOperationTest">
-				<xpath>/Defs/AlienRace.ThingDef_AlienRace[defName="Annelitrice"]</xpath>
+				<xpath>/Defs/AlienRace.ThingDef_AlienRace[@Name="Anneli_BasePawn"]</xpath>
 			</li>
 			<li Class="PatchOperationConditional">
-				<xpath>/Defs/AlienRace.ThingDef_AlienRace[defName="Annelitrice"]/comps</xpath>
+				<xpath>/Defs/AlienRace.ThingDef_AlienRace[@Name="Anneli_BasePawn"]/comps</xpath>
 				<nomatch Class="PatchOperationAdd">
-					<xpath>/Defs/AlienRace.ThingDef_AlienRace[defName="Annelitrice"]</xpath>
+					<xpath>/Defs/AlienRace.ThingDef_AlienRace[@Name="Anneli_BasePawn"]</xpath>
 					<value>
 						<comps>
 							<li><compClass>FacialAnimation.DrawFaceGraphicsComp</compClass></li>
@@ -26,7 +26,7 @@
 					</value>
 				</nomatch>
 				<match Class="PatchOperationAdd">
-					<xpath>/Defs/AlienRace.ThingDef_AlienRace[defName="Annelitrice"]/comps</xpath>
+					<xpath>/Defs/AlienRace.ThingDef_AlienRace[@Name="Anneli_BasePawn"]/comps</xpath>
 					<value>
 						<li><compClass>FacialAnimation.DrawFaceGraphicsComp</compClass></li>
 						<li><compClass>FacialAnimation.HeadControllerComp</compClass></li>

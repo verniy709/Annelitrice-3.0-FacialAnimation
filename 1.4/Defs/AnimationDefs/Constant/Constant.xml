@@ -27,7 +27,7 @@
 
   <FacialAnimation.FaceAnimationDef>
     <defName>Anneli_eyeMoving</defName>
-<raceName>Annelitrice</raceName>
+    <raceName>Annelitrice</raceName>
     <animationFrames>
       <li>
         <duration>15</duration>
@@ -41,7 +41,7 @@
 
   <FacialAnimation.FaceAnimationDef>
     <defName>Anneli_eyeMoving2</defName>
-<raceName>Annelitrice</raceName>
+    <raceName>Annelitrice</raceName>
     <animationFrames>
       <li>
         <duration>15</duration>
@@ -55,7 +55,7 @@
 
   <FacialAnimation.FaceAnimationDef>
     <defName>Anneli_eyeFlicker</defName>
-<raceName>Annelitrice</raceName>
+    <raceName>Annelitrice</raceName>
     <animationFrames>
       <li>
         <duration>3</duration>
@@ -68,7 +68,7 @@
 
   <FacialAnimation.FaceAnimationDef>
     <defName>Anneli_blink</defName>
-<raceName>Annelitrice</raceName>
+    <raceName>Annelitrice</raceName>
     <animationFrames>
       <li>
         <duration>3</duration>
