@@ -55,5 +55,23 @@
     <raceName>Annelitrice</raceName>
   </FacialAnimation.EyeballTypeDef>
 
+  <FacialAnimation.EyeballTypeDef>
+    <defName>Anneli_EyeBright</defName>
+    <texPath>Things/Pawn/Annelitrice/Eyes/Bright</texPath>
+    <shader>Map/CutoutComplex</shader>
+    <minColor>RGB(0.45,0.45,0.45)</minColor>
+    <maxColor>RGB(0.95,0.95,0.95)</maxColor>
+    <raceName>Annelitrice</raceName>
+  </FacialAnimation.EyeballTypeDef>
+
+  <FacialAnimation.EyeballTypeDef>
+    <defName>Anneli_EyeShiny</defName>
+    <texPath>Things/Pawn/Annelitrice/Eyes/Shiny</texPath>
+    <shader>Map/CutoutComplex</shader>
+    <minColor>RGB(0.45,0.45,0.45)</minColor>
+    <maxColor>RGB(0.95,0.95,0.95)</maxColor>
+    <raceName>Annelitrice</raceName>
+  </FacialAnimation.EyeballTypeDef>
+
 
 </Defs>

@@ -8,7 +8,6 @@
    <raceName>Annelitrice</raceName>
  </FacialAnimation.LidTypeDef>
 
- <!-- too high -->
  <FacialAnimation.LidTypeDef>
   <defName>Anneli_LidPointy</defName>
   <texPath>Things/Pawn/Annelitrice/Lids/Pointy</texPath>
@@ -25,7 +24,6 @@
   <raceName>Annelitrice</raceName>
 </FacialAnimation.LidTypeDef>
 
-<!-- too big -->
 <FacialAnimation.LidTypeDef>
   <defName>Anneli_LidQuite</defName>
   <texPath>Things/Pawn/Annelitrice/Lids/Quite</texPath>
@@ -48,4 +46,19 @@
   <shader>Map/Transparent</shader>
   <raceName>Annelitrice</raceName>
 </FacialAnimation.LidTypeDef>
+
+<FacialAnimation.LidTypeDef>
+  <defName>Anneli_LidCheerful</defName>
+  <texPath>Things/Pawn/Annelitrice/Lids/Cheerful</texPath>
+  <shader>Map/Transparent</shader>
+  <raceName>Annelitrice</raceName>
+</FacialAnimation.LidTypeDef>
+
+<FacialAnimation.LidTypeDef>
+  <defName>Anneli_LidCunning</defName>
+  <texPath>Things/Pawn/Annelitrice/Lids/Cunning</texPath>
+  <shader>Map/Transparent</shader>
+  <raceName>Annelitrice</raceName>
+</FacialAnimation.LidTypeDef>
+
 </Defs>
