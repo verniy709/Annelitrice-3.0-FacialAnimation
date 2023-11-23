@@ -12,7 +12,6 @@
   <defName>Anneli_LidPointy</defName>
   <texPath>Things/Pawn/Annelitrice/Lids/Pointy</texPath>
   <shader>Map/Transparent</shader>
-  <gender>Female</gender>
   <raceName>Annelitrice</raceName>
 </FacialAnimation.LidTypeDef>
 
@@ -20,7 +19,6 @@
   <defName>Anneli_LidFlashy</defName>
   <texPath>Things/Pawn/Annelitrice/Lids/Flashy</texPath>
   <shader>Map/Transparent</shader>
-  <gender>Female</gender>
   <raceName>Annelitrice</raceName>
 </FacialAnimation.LidTypeDef>
 
@@ -28,7 +26,6 @@
   <defName>Anneli_LidQuite</defName>
   <texPath>Things/Pawn/Annelitrice/Lids/Quite</texPath>
   <shader>Map/Transparent</shader>
-  <gender>Female</gender>
   <raceName>Annelitrice</raceName>
 </FacialAnimation.LidTypeDef>
 
@@ -36,7 +33,6 @@
   <defName>Anneli_LidSleepy</defName>
   <texPath>Things/Pawn/Annelitrice/Lids/Sleepy</texPath>
   <shader>Map/Transparent</shader>
-  <gender>Female</gender>
   <raceName>Annelitrice</raceName>
 </FacialAnimation.LidTypeDef>
 
