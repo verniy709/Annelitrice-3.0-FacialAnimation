@@ -4,6 +4,7 @@
   <FacialAnimation.FaceAdjustmentDef>
     <defName>Anneli_SizeAndPositionDef</defName>
     <RaceName>Annelitrice</RaceName>
-    <Size>(1.02,1.04)</Size>    
+    <!-- Size 1.1 -->
+    <Size>(1.106,1.139)</Size> 
   </FacialAnimation.FaceAdjustmentDef>
 </Defs>
